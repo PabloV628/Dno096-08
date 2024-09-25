@@ -1,11 +1,10 @@
 [
     {
         "nombre": "Poster de película EEAAO",
-        "descripcion":"Poster de créditos de Everything Everywhere All at Once. Este proyecto se destaca por su edición fotográfica. Mediante la distorsión de la imagen y la repetición de la tipografía se representa el caos y la perdida de identidad que sufre la protagonista.",
+        "descripcion": "Poster de créditos de Everything Everywhere All at Once. Este proyecto se destaca por su edición fotográfica. Mediante la distorsión de la imagen y la repetición de la tipografía se representa el caos y la perdida de identidad que sufre la protagonista.",
         "fecha": "2023",
         "signo": "editorial",
         "foto": "https://github.com/user-attachments/assets/09447647-49fe-4eac-b4a4-a17e37045396",
-        "fotos": ,
         "github": "https://github.com/pablov628"
     },
     {
@@ -18,7 +17,7 @@
     },
     {
         "nombre": "Poster Patio Vivo",
-        "descripcion": "Set de Posters para Fundación Patio Vivo. Se buscó representar conceptos como circularidad, centros de encuentro e involucramiento con el entorno. La imagen presenta simetría y un eje central que permite que el póster funcione al voltearse." ,
+        "descripcion": "Set de Posters para Fundación Patio Vivo. Se buscó representar conceptos como circularidad, centros de encuentro e involucramiento con el entorno. La imagen presenta simetría y un eje central que permite que el póster funcione al voltearse.",
         "fecha": "2023",
         "signo": "editorial",
         "foto": "https://github.com/user-attachments/assets/008b4779-3770-4082-9b61-fa6312f10489",
@@ -26,9 +25,7 @@
     },
     {
         "nombre": "Aplicación Dialifit",
-        "descripcion": "Aplicación de ejercicio para pacientes de diálisis peritoneal.
-
-Su diseño se basó en las necesidades reales de los pacientes, obtenidas mediante entrevistas y cuestionarios. Luego, se diseñaron sus funciones mediante Figma.",
+        "descripcion": "Aplicación de ejercicio para pacientes de diálisis peritoneal. Su diseño se basó en las necesidades reales de los pacientes, obtenidas mediante entrevistas y cuestionarios. Luego, se diseñaron sus funciones mediante Figma.",
         "fecha": "2024",
         "signo": "app",
         "foto": "https://github.com/user-attachments/assets/7867b00a-4ff6-44fa-9a62-2a8dcd312542",
@@ -52,7 +49,7 @@ Su diseño se basó en las necesidades reales de los pacientes, obtenidas median
     },
     {
         "nombre": "Mi cuarto vectorial",
-        "descripcion": ,
+        "descripcion": "Ilustración Vectorial",
         "fecha": "2024",
         "signo": "ilustracion",
         "foto": "https://github.com/user-attachments/assets/e1dc02d2-331d-47ed-857a-9de8018a869e",
@@ -60,7 +57,7 @@ Su diseño se basó en las necesidades reales de los pacientes, obtenidas median
     },
     {
         "nombre": "3 personajes ilustrados",
-        "descripcion": ,
+        "descripcion": "Ilustración hecha en InfinitePainter",
         "fecha": "2024",
         "signo": "ilustracion",
         "foto": "https://github.com/user-attachments/assets/c18d4396-6ed8-48de-8829-93dd310b56c2",
@@ -68,7 +65,7 @@ Su diseño se basó en las necesidades reales de los pacientes, obtenidas median
     },
     {
         "nombre": "Ilustración Ismael de Moby Dick",
-        "descripcion": "Ilustración DIgital" ,
+        "descripcion": "Ilustración DIgital",
         "fecha": "2024",
         "signo": "ilustracion",
         "foto": "https://github.com/user-attachments/assets/faeba15e-526e-4f59-a5d8-7a64a0e868c9",
@@ -92,7 +89,7 @@ Su diseño se basó en las necesidades reales de los pacientes, obtenidas median
     },
     {
         "nombre": "Juego: Astrotegik",
-        "descripcion": ,
+        "descripcion": "Propuesta de juego de mesa de estrategia que incluye el diseño de un set de cartas, un instructivo, un tablero y piezas, junto con el desarrollo de su packaging y logotipo.",
         "fecha": "2022",
         "signo": "branding",
         "foto": "https://github.com/user-attachments/assets/f32a17e2-bba1-44a4-a355-0c8fe8fbc605",
@@ -100,7 +97,7 @@ Su diseño se basó en las necesidades reales de los pacientes, obtenidas median
     },
     {
         "nombre": "Rediseño de Menú",
-        "descripcion": ,
+        "descripcion": "Propuesta de rediseño del menú de una cafetería, acompañada del diseño de nuevos indiviudales y servilletas. El objetivo era darles a estos elementos una identidad de marca coherente y fresca, que reflejara la esencia del lugar, lo cual no estaba presente en el diseño anterior",
         "fecha": "2023",
         "signo": "branding",
         "foto": "https://github.com/user-attachments/assets/9f5a45dc-beb8-482f-af67-9d311d1be416",
