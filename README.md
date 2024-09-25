@@ -10,3 +10,6 @@ Clase 08 de opr
 ![IC_3pers](https://github.com/user-attachments/assets/c18d4396-6ed8-48de-8829-93dd310b56c2)
 ![Vergara_Ismael](https://github.com/user-attachments/assets/faeba15e-526e-4f59-a5d8-7a64a0e868c9)
 ![Captura de pantalla 2024-09-25 112101](https://github.com/user-attachments/assets/bc610c42-bbc4-40d0-8851-ff4a3a21a6fd)
+![encuentro](https://github.com/user-attachments/assets/2cdccb43-bc33-4f6d-9b7e-cd1ea7180de6)
+![astrotegik](https://github.com/user-attachments/assets/f32a17e2-bba1-44a4-a355-0c8fe8fbc605)
+![bugamb](https://github.com/user-attachments/assets/9f5a45dc-beb8-482f-af67-9d311d1be416)
