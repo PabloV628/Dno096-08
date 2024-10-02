@@ -1,15 +1,13 @@
 [
     {
         "nombre": "Poster de película EEAAO",
-        "descripcion": "Poster de créditos de Everything Everywhere All at Once. Este proyecto se destaca por su edición fotográfica. Mediante la distorsión de la imagen y la repetición de la tipografía se representa el caos y la perdida de identidad que sufre la protagonista.",
         "fecha": "2023",
         "signo": "editorial",
         "foto": "https://github.com/user-attachments/assets/09447647-49fe-4eac-b4a4-a17e37045396",
         "github": "https://github.com/pablov628"
     },
     {
-        "nombre": "Infografía Feminista",
-        "descripcion": "Infografía sobre feminismo. Este trabajo se destaca por su jerarquización de elementos, estableciendo dos ejes centrales mediante las imágenes: uno relacionado con el feminismo y el otro con los problemas que surgen en su ausencia.",
+        "nombre": "Infografía",
         "fecha": "2023",
         "signo": "editorial",
         "foto": "https://github.com/user-attachments/assets/052ab215-a23f-482e-9e44-6306475062dd",
@@ -17,7 +15,6 @@
     },
     {
         "nombre": "Poster Patio Vivo",
-        "descripcion": "Set de Posters para Fundación Patio Vivo. Se buscó representar conceptos como circularidad, centros de encuentro e involucramiento con el entorno. La imagen presenta simetría y un eje central que permite que el póster funcione al voltearse.",
         "fecha": "2023",
         "signo": "editorial",
         "foto": "https://github.com/user-attachments/assets/008b4779-3770-4082-9b61-fa6312f10489",
@@ -25,15 +22,13 @@
     },
     {
         "nombre": "Aplicación Dialifit",
-        "descripcion": "Aplicación de ejercicio para pacientes de diálisis peritoneal. Su diseño se basó en las necesidades reales de los pacientes, obtenidas mediante entrevistas y cuestionarios. Luego, se diseñaron sus funciones mediante Figma.",
         "fecha": "2024",
-        "signo": "app",
+        "signo": "ui/ux",
         "foto": "https://github.com/user-attachments/assets/7867b00a-4ff6-44fa-9a62-2a8dcd312542",
         "github": "https://github.com/pablov628"
     },
     {
         "nombre": "Poster 2D",
-        "descripcion": "Ilustración Vectorial",
         "fecha": "2020",
         "signo": "ilustracion",
         "foto": "https://github.com/user-attachments/assets/fe83b079-1e1d-46a0-a505-f6c8c61e29da",
@@ -41,7 +36,6 @@
     },
     {
         "nombre": "Poster Buin Zoo",
-        "descripcion": "Ilustración Vectorial",
         "fecha": "2024",
         "signo": "ilustracion",
         "foto": "https://github.com/user-attachments/assets/e351518b-8352-40f7-af1d-7100dd01bc4d",
@@ -49,7 +43,6 @@
     },
     {
         "nombre": "Mi cuarto vectorial",
-        "descripcion": "Ilustración Vectorial",
         "fecha": "2024",
         "signo": "ilustracion",
         "foto": "https://github.com/user-attachments/assets/e1dc02d2-331d-47ed-857a-9de8018a869e",
@@ -57,7 +50,6 @@
     },
     {
         "nombre": "3 personajes ilustrados",
-        "descripcion": "Ilustración hecha en InfinitePainter",
         "fecha": "2024",
         "signo": "ilustracion",
         "foto": "https://github.com/user-attachments/assets/c18d4396-6ed8-48de-8829-93dd310b56c2",
@@ -65,7 +57,6 @@
     },
     {
         "nombre": "Ilustración Ismael de Moby Dick",
-        "descripcion": "Ilustración DIgital",
         "fecha": "2024",
         "signo": "ilustracion",
         "foto": "https://github.com/user-attachments/assets/faeba15e-526e-4f59-a5d8-7a64a0e868c9",
@@ -73,34 +64,31 @@
     },
     {
         "nombre": "Aplicación Studypet",
-        "descripcion": "Studypet es una aplicación para niños con TDAH. Su diseño se enfocó en ser amigable, tierno y fácil de usar, motivando al niño a hacer sus tareas mediante la personalización de una mascota.",
         "fecha": "2022",
-        "signo": "app",
+        "signo": "ui/ux",
         "foto": "https://github.com/user-attachments/assets/bc610c42-bbc4-40d0-8851-ff4a3a21a6fd",
+        "collage": "https://github.com/user-attachments/assets/c0c70c7c-868d-4d1a-8f1c-18539f30a5e6",
         "github": "https://github.com/pablov628"
     },
-    {
+      {
         "nombre": "Fanzine Encuentro tipográfico",
-        "descripcion": "Fanzine a color que compara y destaca las tipografías de dos diseñadores. Tiene un diseño dinámico ya que las formas y características de las páginas están pensadas para resaltar los caracteres y así mantener el interés del lector.",
         "fecha": "2023",
         "signo": "editorial",
         "foto": "https://github.com/user-attachments/assets/2cdccb43-bc33-4f6d-9b7e-cd1ea7180de6",
         "github": "https://github.com/pablov628"
     },
-    {
+      {
         "nombre": "Juego: Astrotegik",
-        "descripcion": "Propuesta de juego de mesa de estrategia que incluye el diseño de un set de cartas, un instructivo, un tablero y piezas, junto con el desarrollo de su packaging y logotipo.",
         "fecha": "2022",
         "signo": "branding",
         "foto": "https://github.com/user-attachments/assets/f32a17e2-bba1-44a4-a355-0c8fe8fbc605",
         "github": "https://github.com/pablov628"
     },
-    {
+      {
         "nombre": "Rediseño de Menú",
-        "descripcion": "Propuesta de rediseño del menú de una cafetería, acompañada del diseño de nuevos indiviudales y servilletas. El objetivo era darles a estos elementos una identidad de marca coherente y fresca, que reflejara la esencia del lugar, lo cual no estaba presente en el diseño anterior",
         "fecha": "2023",
         "signo": "branding",
         "foto": "https://github.com/user-attachments/assets/9f5a45dc-beb8-482f-af67-9d311d1be416",
         "github": "https://github.com/pablov628"
-    }
-]
+    },
+    ]
