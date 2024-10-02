@@ -13,4 +13,3 @@ Clase 08 de opr
 ![encuentro](https://github.com/user-attachments/assets/2cdccb43-bc33-4f6d-9b7e-cd1ea7180de6)
 ![astrotegik](https://github.com/user-attachments/assets/f32a17e2-bba1-44a4-a355-0c8fe8fbc605)
 ![bugamb](https://github.com/user-attachments/assets/9f5a45dc-beb8-482f-af67-9d311d1be416)
-<img width="1179" alt="Group 48 (3)" src="https://github.com/user-attachments/assets/c0c70c7c-868d-4d1a-8f1c-18539f30a5e6">
